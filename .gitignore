@@ -1,5 +1,7 @@
 /HSall_members.csv
 /S117_votes.csv
 /wiki_scraping.ipynb
+/Notebook/*
 test.ipynb
 /SenateClustering/__pycache__/*
+/export/*
